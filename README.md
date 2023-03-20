@@ -1,4 +1,5 @@
-# Blogging-site
+# Lithium
+
 Repository for backend cohort - Lithium
 
 ## Blogging Site Mini Project Requirement
